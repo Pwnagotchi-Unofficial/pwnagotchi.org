@@ -1,0 +1,41 @@
+@font-face {
+    font-family: DejaVu;
+    src: url(/DejaVuSansMono.ttf);
+}
+
+body {
+    background-color: #1e1e2e;
+}
+
+p {
+    font-family: DejaVu;
+}
+
+a { 
+    color: #cdd6f4;
+    text-decoration: none;
+}
+
+.content {
+    font-family: DejaVu;
+    width: 50%;
+    max-width: 50%;
+    margin: auto;
+    color: #cdd6f4;
+}
+
+.content .titleText {
+    font-size: 100;
+    text-align: center;
+}
+
+
+@media (max-width: 750px) {
+    .content{
+        width: 100%;
+        max-width: 100%;
+    }
+    .content .titleText {
+        font-size: 10vw;
+    }
+}
