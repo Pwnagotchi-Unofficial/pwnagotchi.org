@@ -6,7 +6,9 @@ You can email me at dylan@dylanjava.com about reserving a subdomain. If you use 
 There are two ways:
 
 The Easy way
+
 1. Email me about your project if its not already at the list.
 
-The Harder way
+Or the harder way
+
 2. Submit a patchset. You can watch [this video](https://spacepub.space/w/ad258d23-0ac6-488c-83fc-2bacf578de3a) by Drew Devault (creator of sr.ht) about how to do this.
