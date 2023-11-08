@@ -5,10 +5,10 @@ You can email me at dylan@dylanjava.com about reserving a subdomain. If you use 
 # How to add my project to the list.
 There are two ways:
 
-The Easy way
+The Easy way:
 
-1. Email me about your project if its not already at the list.
+Email me about your project if its not already at the list.
 
-Or the harder way
+Or the harder way:
 
-2. Submit a patchset. You can watch [this video](https://spacepub.space/w/ad258d23-0ac6-488c-83fc-2bacf578de3a) by Drew Devault (creator of sr.ht) about how to do this.
+Submit a patchset. You can watch [this video](https://spacepub.space/w/ad258d23-0ac6-488c-83fc-2bacf578de3a) by Drew Devault (creator of sr.ht) about how to do this.
