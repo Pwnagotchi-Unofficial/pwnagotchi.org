@@ -39,3 +39,13 @@ a {
         font-size: 10vw;
     }
 }
+
+@media (pointer:none), (pointer:coarse) { /* Quick and dirty trick to get mobile detection working! This could activate on other touch screen devices E.G. Touchscreen laptops. However if this does activate on a non-touchscreen device it really does not matter... */
+    .content{
+        width: 100%;
+        max-width: 100%;
+    }
+    .content .titleText {
+        font-size: 10vw;
+    }
+}
