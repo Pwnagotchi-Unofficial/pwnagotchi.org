@@ -11,6 +11,10 @@ p {
     font-family: DejaVu;
 }
 
+pre {
+    font-family: monospace;
+}
+
 a { 
     color: #cdd6f4;
     text-decoration: none;
