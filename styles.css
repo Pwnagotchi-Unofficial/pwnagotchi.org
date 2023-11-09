@@ -12,7 +12,7 @@ p {
 }
 
 pre {
-    font-family: monospace; /* Though i would use the DejaVu font here, it causes some weirdness with the face on some browsers on some devices so this is a good substitution. I could also use a vector format image but that does make the website heavier by a *very small* bit and i cant be assed. */
+    font-family: monospace; /* Though i would use the DejaVu font here, it causes some weirdness with the face on some browsers on some devices so this is a good substitution. I could also use a vector format image but that does make the website heavier by a *very small* bit and i cant be assed. (The real reason) */
 }
 
 a { 
