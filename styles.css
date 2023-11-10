@@ -33,6 +33,14 @@ a {
     text-align: center;
 }
 
+.content .footnote {
+    color: #7f849c;
+
+}
+
+.content .footnote a {
+    color: #7f849c;
+}
 
 @media (max-width: 750px) {
     .content{
