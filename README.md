@@ -11,7 +11,7 @@ Email me about your project if its not already at the list.
 
 Or the harder way:
 
-Submit a patchset. You can watch [this video](https://spacepub.space/w/ad258d23-0ac6-488c-83fc-2bacf578de3a) by Drew Devault (creator of sr.ht) about how to do this.
+Submit a pull request on github.com
 
 # Footnote
 1. If your editing this code turn on **Soft** line wrapping, **Not hard line wrapping**. If you dont know which one your editor uses its probably **Soft line wrapping**.
